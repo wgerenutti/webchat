@@ -1,0 +1,32 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "use to chat with others peoples in real time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgerenutti/webchat.git"
+  },
+  "keywords": [
+    "webchat",
+    "chat",
+    "chat",
+    "real",
+    "time"
+  ],
+  "author": "William Gerenutti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgerenutti/webchat/issues"
+  },
+  "homepage": "https://github.com/wgerenutti/webchat#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  },
+  "devDependencies": {}
+}
